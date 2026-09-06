@@ -1,4 +1,5 @@
 # 💱 CurrencyX &mdash; Real-Time Currency Converter
+Website Link ----> https://sivavishnu-oss.github.io/REALTIME_CURRENCY_CONVERTER/
 
 A modern, high-performance, and stylish currency converter web application built with HTML5, CSS3 (Glassmorphism & Pure Black Theme), and Vanilla JavaScript. It fetches real-time market exchange rates and features dynamic country flag indicators, quick amount presets, and inverse rate calculations.
 
@@ -20,14 +21,6 @@ A modern, high-performance, and stylish currency converter web application built
 
 ### Prerequisites
 All you need is a modern web browser (Google Chrome, Mozilla Firefox, Apple Safari, Microsoft Edge, etc.).
-
-### Running Locally
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/your-username/api-currency-converter.git
-   ```
-2. Open `index.html` directly in your browser:
-   - Double-click `index.html` or open it with your preferred local web server (e.g., VS Code Live Server, `npx serve`, or `python3 -m http.server 8000`).
 
 ---
 
